@@ -52,6 +52,6 @@
 <!-- Cards for GitHub Stats and Streak Stats in the same row -->
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swet40&" alt="swet40" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swet40&theme=dark" alt="swet40" />
   </p>
 </div>
