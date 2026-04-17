@@ -4,10 +4,10 @@
 </p>
 <p style="text-decoration: none">reach me at: <a>palsweta317@gmail.com</a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 
 <!-- Languages and Tools Icons with proper spacing -->
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;"> 
+<!-- <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
@@ -47,7 +47,7 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
-</p>
+</p> -->
 <br>
 <!-- Cards for GitHub Stats and Streak Stats in the same row -->
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
